@@ -1,0 +1,12 @@
+variables   datatypes   operators
+if-else     while       for
+int     string      double      boolean
+class       objects     methods
+constructor     method_overload     method_override
+inheritance     encapsulation       access_modifiers
+packages        abstract        enum
+interface
+array       arraylist       hashset     hashmap
+exceptions      scanner     file_handler
+
+
